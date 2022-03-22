@@ -32,3 +32,7 @@ body {
     font-size:1rem;
     color: rgb(121, 116, 116);
 }
+button {
+    height: 1.25rem;
+    width: 5.5rem;
+}
